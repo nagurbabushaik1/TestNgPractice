@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[This is Report purposeReporterTest1]]>
+    </line>
+    <line>
+      <![CDATA[This is Report purpose]]>
+    </line>
+    <line>
+      <![CDATA[This is Report purposeReporterTest1]]>
+    </line>
+    <line>
+      <![CDATA[This is Report purposeReporterTest2]]>
+    </line>
+    <line>
+      <![CDATA[This is Report purposeReporterTest2]]>
+    </line>
+    <line>
+      <![CDATA[This is Report purposeReporterTest3]]>
+    </line>
+    <line>
+      <![CDATA[This is Report purposeReporterTest3]]>
+    </line>
+    <line>
+      <![CDATA[This is Report purposeReporterTest4]]>
+    </line>
+    <line>
+      <![CDATA[This is Report purposeReporterTest4]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-09T14:38:07 IST" name="Practice" finished-at="2023-08-09T14:38:07 IST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2023-08-09T14:38:07 IST" name="Test" finished-at="2023-08-09T14:38:07 IST" duration-ms="54">
+      <class name="TestScenarios.ReporterDemo">
+        <test-method signature="ReporterTest1()[pri:0, instance:TestScenarios.ReporterDemo@cb0f763]" started-at="2023-08-09T14:38:07 IST" name="ReporterTest1" finished-at="2023-08-09T14:38:07 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This is Report purposeReporterTest1]]>
+            </line>
+            <line>
+              <![CDATA[This is Report purpose]]>
+            </line>
+            <line>
+              <![CDATA[This is Report purposeReporterTest1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ReporterTest1 -->
+        <test-method signature="ReporterTest2()[pri:0, instance:TestScenarios.ReporterDemo@cb0f763]" started-at="2023-08-09T14:38:07 IST" name="ReporterTest2" finished-at="2023-08-09T14:38:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This is Report purposeReporterTest2]]>
+            </line>
+            <line>
+              <![CDATA[This is Report purposeReporterTest2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ReporterTest2 -->
+        <test-method signature="ReporterTest3()[pri:0, instance:TestScenarios.ReporterDemo@cb0f763]" started-at="2023-08-09T14:38:07 IST" name="ReporterTest3" finished-at="2023-08-09T14:38:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This is Report purposeReporterTest3]]>
+            </line>
+            <line>
+              <![CDATA[This is Report purposeReporterTest3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ReporterTest3 -->
+        <test-method signature="ReporterTest4()[pri:0, instance:TestScenarios.ReporterDemo@cb0f763]" started-at="2023-08-09T14:38:07 IST" name="ReporterTest4" finished-at="2023-08-09T14:38:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This is Report purposeReporterTest4]]>
+            </line>
+            <line>
+              <![CDATA[This is Report purposeReporterTest4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ReporterTest4 -->
+      </class> <!-- TestScenarios.ReporterDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Practice -->
+</testng-results>
